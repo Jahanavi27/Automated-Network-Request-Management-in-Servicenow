@@ -197,6 +197,6 @@ A powerful flow was built with the following actions:
 ---
 
 ## 👨‍💻 Author
-**Khadir Shaik**  
-*Java MERN Stack Developer | ServiceNow Enthusiast | AI-Driven Solutions Builder*  
-🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/khadirshaik1903/)) | 🔗 [GitHub](https://github.com)  
+**Jahanavi Madugula**  
+*Full Stack Developer | ServiceNow Enthusiast | AI-Driven Solutions Builder*  
+🔗 [LinkedIn]([https://www.linkedin.com]((https://www.linkedin.com/in/jahanavi-madugula-75a1252a9/))) | 🔗 [GitHub]((https://github.com/Jahanavi27/))  
